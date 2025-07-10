@@ -1,2 +1,2 @@
 # iSEM
-Algorithm and dataset for iSEM article.
+Algorithm and representative data for iSEM article.
